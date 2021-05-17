@@ -2,6 +2,9 @@
 
 **_Portal Checkers_** is a puzzle game developed in Lua, using as inspiration the [Board Game Ricochete Robots by Alex Randolph](https://en.wikipedia.org/wiki/Ricochet_Robot). Although the game has similar mechanics, the board and the playstyle has major differences.
 
+**_Youtube video:_**
+[![PortalCheckers](http://img.youtube.com/vi/51W2z2NXbVI/0.jpg)](http://www.youtube.com/watch?v=51W2z2NXbVI "Video Title")
+
 ## The Pieces and the Board
 
 In Portal Checkers, similary to the classic version of Ricochete Robots, you have 4 differents pieces, in this game they are called **_Blocks_**, and their colors are:
