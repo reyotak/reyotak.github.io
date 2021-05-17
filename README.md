@@ -64,4 +64,6 @@ For the controls we have a few when you start the game:
 
 *Note: When you skip a map, you're total maps completed is **__Reduced by One__**.
 
+## Web Version
+The web version was converted from lua to JavaScript using [Davidobot love.js](https://github.com/Davidobot/love.js) implementation. 
 #
