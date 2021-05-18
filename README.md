@@ -1,6 +1,6 @@
 # CS50 Final Project, Portal Checkers
 
-**_Portal Checkers_** is a puzzle game developed in Lua, using as inspiration the [Board Game Ricochete Robots by Alex Randolph](https://en.wikipedia.org/wiki/Ricochet_Robot). Although the game has similar mechanics, the board and the playstyle has major differences.
+**_Portal Checkers_** is a puzzle game developed in [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)), using as inspiration the [Board Game Ricochete Robots by Alex Randolph](https://en.wikipedia.org/wiki/Ricochet_Robot). Although the game has similar mechanics, the board and the playstyle has major differences.
 
 **_Youtube video:_**
 [![PortalCheckers](http://img.youtube.com/vi/51W2z2NXbVI/0.jpg)](http://www.youtube.com/watch?v=51W2z2NXbVI "Video Title")
